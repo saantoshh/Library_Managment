@@ -1,0 +1,1 @@
+Built a console-based Library Management System using Core Java and OOP principles. Features include book and student registration, issuing/returning books, and maintaining records using ArrayList and HashMap. Emphasized modular design, validation logic, and efficient data operations
